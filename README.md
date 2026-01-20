@@ -1,3 +1,3 @@
-> ~~~
+> ~
 
 [here](google.com)
