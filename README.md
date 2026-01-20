@@ -1,3 +1,1 @@
->link
-
-[click here](google.com)
+[link to website](google.com)
